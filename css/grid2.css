@@ -12,8 +12,8 @@ html {
   }
   
   .box {
-     background-color: grey;
-     color: rgb(27, 27, 27);
+     background-color:rgb(177, 80, 222) ;
+     color:white;
      border-radius: 5px;
      padding: 20px;
      text-align: center;
